@@ -77,7 +77,7 @@ bintray {
     key = properties.getProperty("bintray.apikey")
 
 
-    configurations = ['published','archives']
+    configurations = ['archives']
     publish = true
 
     pkg {
