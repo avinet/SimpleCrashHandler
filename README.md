@@ -1,6 +1,8 @@
 Simple Crash Handler
 ===
 
+[ ![Download](https://api.bintray.com/packages/jnystad/maven/SimpleCrashHandler/images/download.svg) ](https://bintray.com/jnystad/maven/SimpleCrashHandler/_latestVersion)
+
 Simple Crash Handler is a simple utility library for handling uncaught
 exceptions and reporting them to a custom endpoint as JSON.
 
