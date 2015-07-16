@@ -21,6 +21,6 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile project(':lib')
+    compile project(':simplecrashhandler')
     compile 'com.android.support:appcompat-v7:22.2.0'
 }

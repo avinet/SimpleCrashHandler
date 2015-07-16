@@ -17,7 +17,7 @@ Add jCenter repository to your project gradle file.
 Add Simple Crash Handler to your module gradle file dependencies:
 
 ```
-  compile 'no.avinet.simplecrashhandler:SimpleCrashHandler:0.1.1'
+  compile 'no.avinet:SimpleCrashHandler:0.1.5'
 ```
 
 ## Usage
@@ -71,7 +71,7 @@ also be used to test the crash reporting endpoint.
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Avinet
+Copyright (c) 2015 Asplan Viak Internet AS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
