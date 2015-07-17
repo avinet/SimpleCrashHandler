@@ -17,7 +17,7 @@ Add jCenter repository to your project gradle file.
 Add Simple Crash Handler to your module gradle file dependencies:
 
 ```
-  compile 'no.avinet:SimpleCrashHandler:0.1.5'
+  compile 'no.avinet:SimpleCrashHandler:0.1.6'
 ```
 
 ## Usage

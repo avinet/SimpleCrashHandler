@@ -64,6 +64,7 @@ public class SimpleCrashService extends IntentService {
             crashReport.put("buildSerial", Build.SERIAL);
             crashReport.put("buildType", Build.TYPE);
             crashReport.put("buildTags", Build.TAGS);
+            crashReport.put("sdkVersion", Build.VERSION.SDK_INT);
             json = crashReport.toString(2);
 
             if (!isOnline() || !sendCrashReport(json))
